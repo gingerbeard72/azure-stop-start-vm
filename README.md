@@ -9,4 +9,4 @@ Script to stop/start a list of vm's in Azure
 5. Each stop or start command will use an ErrorVariable that will then be written to the C:\temp location for review.
 6. This code is written without warranty and should be reviewed, understood and then tested in Non Production environments before being used on Production VM's.
 
-
+Please feel free to add comments on how to improve this code. I would like to learn how to handle the errors better and also do some more intelligent checking of the VM status. As well as learning anything else that will help improve this code.
